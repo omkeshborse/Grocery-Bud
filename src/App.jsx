@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Form from "./form";
+import Form from "./Form";
 import { nanoid } from "nanoid";
 import Items from "./Items";
 import { ToastContainer ,toast } from "react-toastify";
